@@ -37,6 +37,6 @@
 - **Issue**: Broken CA Chain detected
 - **Impact**: Potential for man-in-the-middle attacks
 
-## SMB Signing Issues
--Data is not tampered with in transit.
--The server knows the request is from a legitimate source.
+## SMB Signing Issues:
+- **Severity**:Data is not tampered with in transit
+
