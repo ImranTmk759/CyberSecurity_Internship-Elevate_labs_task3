@@ -24,10 +24,10 @@
 
 ## Screenshots
 # Configuring IP address for vulnerability scanning
-![Configuring IP address for vulnerability scanning](newscan.png)
+![Configuring IP address for vulnerability scanning](new_scan.png)
 
 # Result dashboard in Neesus Essential
-![final dashboard](network_scanning.png)
+![final dashboard](network_sccaning.png)
 
 ### Critical Vulnerabilities Identified
 
